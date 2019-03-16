@@ -1,2 +1,2 @@
-# CV-Github
+# CiaranCV
 Simple web based CV. 
