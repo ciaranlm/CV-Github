@@ -1,2 +1,2 @@
 # CiaranCV
-Simple web based CV. 
+Simple web based profile. 
